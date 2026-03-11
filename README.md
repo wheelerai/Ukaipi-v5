@@ -6,7 +6,7 @@
 
 &gt; **Discover, rate, and share AI tools with the Pi Network community**
 
-🔗 **Live Demo**: https://wheelerai.github.io/ukai-pi-network/
+🔗 **Live Demo**: https://wheelerai.github.io/Ukaipi-v5/
 
 ---
 
